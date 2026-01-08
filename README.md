@@ -254,7 +254,7 @@ VS Code • Android Studio • Xcode
 <p align="center">
   <img src="https://img.shields.io/badge/BTech_CSE-APJ_Abdul_Kalam_Technological_University-764ba2?style=for-the-badge"/>
   <br/><br/>
-  <b>CGPA:</b> 6.53 | <b>Year:</b> 2015 - 2019
+  <b>Year:</b> 2015 - 2019
 </p>
 
 <br/>
